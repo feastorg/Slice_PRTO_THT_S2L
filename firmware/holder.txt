@@ -1,1 +1,0 @@
-need to create a generic template for firmware, mostly around commuinications and base functionality.
