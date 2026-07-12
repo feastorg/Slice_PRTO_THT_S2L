@@ -1438,7 +1438,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "KMLib_Mounting:Thermal Pad"
+	(footprint "KMLib_Mounting:Thermal_Pad"
 		(layer "F.Cu")
 		(uuid "06533ed3-d947-4b21-a38e-31c539335286")
 		(at 131.8 121.45)
