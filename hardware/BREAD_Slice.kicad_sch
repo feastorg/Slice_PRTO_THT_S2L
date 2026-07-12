@@ -3252,7 +3252,7 @@
 					)
 				)
 			)
-			(symbol "AP63205_0_1"
+			(symbol "AP63205WU-7_Buck_Regulator_0_1"
 				(rectangle
 					(start -5.08 6.35)
 					(end 5.08 -13.97)
@@ -3265,7 +3265,7 @@
 					)
 				)
 			)
-			(symbol "AP63205_1_1"
+			(symbol "AP63205WU-7_Buck_Regulator_1_1"
 				(pin input line
 					(at 7.62 -6.35 180)
 					(length 2.54)
