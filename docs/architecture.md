@@ -9,7 +9,7 @@ Overview of the electrical, firmware, and mechanical design of this Slice.
 
 <!-- Briefly describe the function of the Slice -->
 
-This Slice is designed to serve as a template slice for creating new SLICE modules, with variants supporting different mechanical and electrical configurations. Intended to standardize layout and encourage reuse.
+This Slice is designed as a template for creating new Slice modules, with variants supporting different mechanical and electrical configurations. It is intended to standardize layout and encourage reuse.
 
 ## 🔌 Interfaces
 
