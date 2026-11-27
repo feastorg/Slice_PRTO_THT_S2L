@@ -13995,8 +13995,8 @@
 			)
 		)
 	)
-	(gr_text "BREAD Slice\nTemplate:\n-> thProto\nSLC_PRTO\nR2 04-2025"
-		(at 128.4 103.5 270)
+	(gr_text "BREAD Slice\nPrototyping\nTHT Components\nSLC_PRTO_THT\nR1 11-2026"
+		(at 128.8 50.5 270)
 		(layer "F.SilkS")
 		(uuid "5abfd3cf-8b82-409d-b0dd-ab0b45a460bd")
 		(effects
