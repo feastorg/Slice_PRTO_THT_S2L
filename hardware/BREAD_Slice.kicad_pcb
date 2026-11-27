@@ -237,7 +237,7 @@
 		(at 187.6 44.8)
 		(descr "Mounting Hole 5mm, no annular")
 		(tags "mounting hole 5mm no annular")
-		(property "Reference" "H2"
+		(property "Reference" "H3"
 			(at 0 -6 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -341,7 +341,7 @@
 		(at 127.6 134.8)
 		(descr "Mounting Hole 5mm, no annular")
 		(tags "mounting hole 5mm no annular")
-		(property "Reference" "H3"
+		(property "Reference" "H2"
 			(at 0 -6 0)
 			(layer "F.SilkS")
 			(hide yes)

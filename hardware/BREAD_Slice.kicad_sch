@@ -5673,7 +5673,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fab1b3e")
-		(property "Reference" "H3"
+		(property "Reference" "H2"
 			(at 62.23 39.4716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5732,7 +5732,7 @@
 		(instances
 			(project "BREAD_Slice"
 				(path "/66043bca-a260-4915-9fce-8a51d324c687"
-					(reference "H3")
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -5749,7 +5749,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fab217d")
-		(property "Reference" "H2"
+		(property "Reference" "H3"
 			(at 69.85 34.3916 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5808,7 +5808,7 @@
 		(instances
 			(project "BREAD_Slice"
 				(path "/66043bca-a260-4915-9fce-8a51d324c687"
-					(reference "H2")
+					(reference "H3")
 					(unit 1)
 				)
 			)
