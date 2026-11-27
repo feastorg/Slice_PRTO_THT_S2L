@@ -1348,7 +1348,7 @@
 			)
 		)
 		(sheetfile "BREAD_Slice.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
