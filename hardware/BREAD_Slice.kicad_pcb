@@ -14125,7 +14125,7 @@
 		)
 	)
 	(gr_text "5V"
-		(at 165.875 104.75 270)
+		(at 166 104.15 270)
 		(layer "F.SilkS")
 		(uuid "acb955f2-f1ad-4a73-980e-12c78f3eb6cb")
 		(effects
