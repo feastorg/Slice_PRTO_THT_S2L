@@ -11676,7 +11676,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 1.85 180)
+			(at 2.9 0 90)
 			(layer "B.SilkS")
 			(uuid "7bace727-a981-4d07-b1d7-b1149d265ddd")
 			(effects
@@ -11883,7 +11883,7 @@
 		(descr "TSOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "TSOT TO_SOT_SMD")
 		(property "Reference" "U1"
-			(at -1.2 2.695 0)
+			(at -2.6 -0.755 90)
 			(layer "B.SilkS")
 			(uuid "6484bd4a-9bf6-4fa3-af3e-bf6ab1a8ef68")
 			(effects
@@ -12145,7 +12145,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 -1.745 180)
+			(at -2.25 -3.6 180)
 			(layer "B.SilkS")
 			(uuid "6f5124c0-c832-42f2-8d6a-7a8be9ad2c24")
 			(effects
@@ -14550,12 +14550,12 @@
 		)
 	)
 	(gr_text "12V->5V Reg"
-		(at 131.85 114.555 0)
+		(at 133.5 114.555 0)
 		(layer "B.SilkS")
 		(uuid "056806f2-56cf-4fe8-84b5-e588bde33964")
 		(effects
 			(font
-				(size 1 1)
+				(size 0.9 0.9)
 				(thickness 0.15)
 			)
 			(justify bottom mirror)
@@ -14810,12 +14810,20 @@
 		(uuid "5eb85120-0ed4-4eac-b6ff-e437e57cea09")
 	)
 	(segment
-		(start 175.677 135.9)
-		(end 175.677 137.332769)
+		(start 175.677 137.332769)
+		(end 177.6 137.332769)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "GND")
-		(uuid "b01d7bea-39f6-4bc2-9924-b6448a5e6032")
+		(uuid "afd139bb-164c-4794-bd9a-aca0fdd53618")
+	)
+	(via
+		(at 177.6 137.332769)
+		(size 0.8)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "0a211195-3fe2-4f36-bcf3-34162b21a72c")
 	)
 	(via
 		(at 136.85 117.905)
@@ -14943,24 +14951,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "8618e3c6-f28b-4f64-ba00-66dad4d3d7e4")
-	)
-	(via
-		(at 175.677 135.9)
-		(size 0.8)
-		(drill 0.4)
-		(layers "F.Cu" "B.Cu")
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "8b63bd2e-6e33-4ba9-97a7-de5c76e68ef5")
 	)
 	(via
 		(at 132.35 117.955)
