@@ -14787,19 +14787,11 @@
 	)
 	(segment
 		(start 157.85 99.98)
-		(end 151.205 99.98)
+		(end 151.2 99.98)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "GND")
-		(uuid "7436b717-c56e-4b0e-8425-5704a4864e5c")
-	)
-	(segment
-		(start 175.6 135.9)
-		(end 175.6 137.255769)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "GND")
-		(uuid "8a5d8f6e-47fe-4926-8d3a-18bdfed57162")
+		(uuid "3fe6082a-a683-410d-8c58-b77f78a7c7e5")
 	)
 	(segment
 		(start 163.825 132.2)
@@ -14810,12 +14802,12 @@
 		(uuid "a0ae732c-3c87-4846-9f6b-f87d7d01755b")
 	)
 	(segment
-		(start 151.205 99.98)
-		(end 151.2 99.975)
+		(start 175.677 135.9)
+		(end 175.677 137.332769)
 		(width 0.5)
 		(layer "F.Cu")
 		(net "GND")
-		(uuid "f05c9e09-78b9-47f2-9692-759e73ac52f8")
+		(uuid "b01d7bea-39f6-4bc2-9924-b6448a5e6032")
 	)
 	(via
 		(at 136.85 117.905)
@@ -14937,7 +14929,7 @@
 		(uuid "7d2569da-ccc6-48e3-af38-1ee8290a3894")
 	)
 	(via
-		(at 175.6 135.9)
+		(at 175.677 135.9)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -15047,7 +15039,7 @@
 		(uuid "d20d004a-4c07-48e5-86f2-7129e3b2e6d1")
 	)
 	(via
-		(at 151.2 99.975)
+		(at 151.2 99.98)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -16273,14 +16265,6 @@
 		(uuid "4d2abb40-9413-40c5-be3c-874fb2a29dde")
 	)
 	(segment
-		(start 170.532769 134.132769)
-		(end 170.523 134.132769)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "6b9c46c5-fca5-4f93-ae39-4470684716ca")
-	)
-	(segment
 		(start 168.675 110.025)
 		(end 168.675 132.2)
 		(width 1.5)
@@ -16311,14 +16295,6 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "b6b055db-d7f9-4b2c-a64a-c4f9da211bce")
-	)
-	(segment
-		(start 157.83 105.06)
-		(end 157.85 105.06)
-		(width 1.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "ceb49980-bc0a-4362-b90b-6b510b32b03d")
 	)
 	(segment
 		(start 168.582769 134.132769)
@@ -16419,14 +16395,6 @@
 		(uuid "d5b4e1e2-19f3-4d70-bf89-b802af383058")
 	)
 	(segment
-		(start 158.03 105.24)
-		(end 157.85 105.06)
-		(width 0.5)
-		(layer "B.Cu")
-		(net "+5V")
-		(uuid "d941da6f-f562-468e-9b86-b898dc582941")
-	)
-	(segment
 		(start 135.25 116.455)
 		(end 135.25 119.5)
 		(width 1.5)
@@ -16457,14 +16425,6 @@
 		(layer "B.Cu")
 		(net "/RESET")
 		(uuid "b5eeb83e-938d-4c6d-800d-dfbaf887f8a4")
-	)
-	(segment
-		(start 157.867 97.457)
-		(end 157.85 97.44)
-		(width 1.5)
-		(layer "B.Cu")
-		(net "unconnected-(A1-VIN-Pad30)")
-		(uuid "64cf5791-a36a-4b02-9878-a57e6853f646")
 	)
 	(segment
 		(start 126.2 80.89)
