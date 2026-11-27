@@ -13756,19 +13756,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "INT"
-		(at 123.525 96.175 0)
-		(layer "F.SilkS")
-		(uuid "b0e38842-ac03-4c5b-8a1e-55adbb4b8c0c")
-		(effects
-			(font
-				(size 0.8 0.8)
-				(thickness 0.15)
-			)
-		)
-	)
 	(gr_text "12V"
-		(at 123.715477 80.925 0)
+		(at 128.35 80.8 0)
 		(layer "F.SilkS")
 		(uuid "e1df4b0e-82c2-4440-ac04-3c42a4367634")
 		(effects
@@ -13778,8 +13767,19 @@
 			)
 		)
 	)
+	(gr_text "INT"
+		(at 128.014 94.1341 315)
+		(layer "F.SilkS")
+		(uuid "b0e38842-ac03-4c5b-8a1e-55adbb4b8c0c")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
 	(gr_text "SCL"
-		(at 123.715477 83.475 0)
+		(at 128.1487 84.1088 315)
 		(layer "F.SilkS")
 		(uuid "cdbac3ad-7252-4da8-b1a5-17f3fd6da071")
 		(effects
@@ -13790,7 +13790,7 @@
 		)
 	)
 	(gr_text "12V"
-		(at 123.715477 98.725 0)
+		(at 128.1487 99.3488 315)
 		(layer "F.SilkS")
 		(uuid "3f230696-6936-45fb-9c05-e7c58419a4fe")
 		(effects
@@ -13801,7 +13801,7 @@
 		)
 	)
 	(gr_text "SDA"
-		(at 123.734524 86.025 0)
+		(at 128.1622 86.6622 315)
 		(layer "F.SilkS")
 		(uuid "bbc3af49-fdef-47bd-8494-93433b79685b")
 		(effects
@@ -13812,7 +13812,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 123.829762 78.375 0)
+		(at 128.2295 79.1096 315)
 		(layer "F.SilkS")
 		(uuid "5f5a1385-75d4-4463-bc21-a6137b8c26df")
 		(effects
@@ -13823,7 +13823,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 123.829762 88.575 0)
+		(at 128.2295 89.2696 315)
 		(layer "F.SilkS")
 		(uuid "0ab7eac0-2505-46ca-a15f-2fbf3a0464df")
 		(effects
@@ -13834,7 +13834,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 123.829762 101.225 0)
+		(at 128.2295 101.9696 315)
 		(layer "F.SilkS")
 		(uuid "581c7a64-fba5-4d4a-824b-f49a62311590")
 		(effects
@@ -13845,7 +13845,7 @@
 		)
 	)
 	(gr_text "SYNC"
-		(at 124.153572 93.625 0)
+		(at 128.4585 97.1185 315)
 		(layer "F.SilkS")
 		(uuid "55159f70-13f1-47a3-bb2b-c74826aa604c")
 		(effects
@@ -13856,7 +13856,7 @@
 		)
 	)
 	(gr_text "ESTOP"
-		(at 124.477381 91.075 0)
+		(at 128.6875 92.2675 315)
 		(layer "F.SilkS")
 		(uuid "a4eb21c6-285b-40a9-9401-daa21a94bf6e")
 		(effects
